@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-LABEL maintainer Late Lee(li@latelee.org)
+LABEL maintainer chengxiaohui(chengxiaohuilikai@126.com)
 
 RUN apt-get update || true && \
     apt-get install -y \
